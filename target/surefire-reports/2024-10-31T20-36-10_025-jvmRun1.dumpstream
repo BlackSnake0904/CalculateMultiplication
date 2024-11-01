@@ -1,0 +1,42 @@
+# Created at 2024-10-31T20:36:10.688
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Waiting for connection on port 5140, timeout 10 seconds (Protocol version: 18)'.
+
+# Created at 2024-10-31T20:36:11.082
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Established connection with the tool'.
+
+# Created at 2024-10-31T20:36:11.400
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Local accelerated session'.
+
+# Created at 2024-10-31T20:36:11.402
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Initializing...'.
+
+# Created at 2024-10-31T20:36:11.404
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Options: >C:\Program Files\NetBeans-23\netbeans\profiler\lib,5140,10<'.
+
+# Created at 2024-10-31T20:36:11.407
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: Initialized successfully'.
+
+# Created at 2024-10-31T20:36:11.409
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:11.411
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:11.413
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:11.415
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:11.418
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:11.628
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:15.056
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
+# Created at 2024-10-31T20:36:15.075
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Profiler Agent: 250 classes cached.'.
+
